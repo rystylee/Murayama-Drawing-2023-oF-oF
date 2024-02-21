@@ -1,0 +1,34 @@
+## common
+.vscode/
+*.pb
+
+## mac
+*bin/*.app
+*config.make
+*Makefile
+*openFrameworks-Info.plist
+*Project.xcconfig
+*.xcodeproj
+
+.DS_Store
+*/.DS_Store
+
+## windows
+*.obj
+*.vs
+*.exe
+*.ilk
+*.lib
+*.pdb
+*.exp
+*.iobj
+*.ipdb
+*.dll
+*.sln
+*.vcxproj*
+*icon.rc
+*obj
+
+## Projects
+bin/data/images
+bin/data/export
